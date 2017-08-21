@@ -3,11 +3,13 @@
 
 This repository is the archive for group members to submit their writing assignments. I will release two writing topics each week while the deadline of these two assignments is Thursday 22:00 and Sunday 22:00 respectively. We will discuss the writing assignments together after each deadline, about 22:00 - 23:00 at Thursday and Sunday evening.
 
-## The Latest Topic Due at August 20
+## The Latest Topic Due at August 24
 
-> Educational institutions should actively encourage their students to choose fields of study that will prepare them for lucrative careers.
+The following recommendation appeared in a memo from the mayor of the town of Hopewell.
 
-Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position.
+> "Two years ago, the nearby town of Ocean View built a new municipal golf course and resort hotel. During the past two years, tourism in Ocean View has increased, new businesses have opened there, and Ocean View's tax revenues have risen by 30 percent. Therefore, the best way to improve Hopewell's economy-and generate additional tax revenues-is to build a golf course and resort hotel similar to those in Ocean View."
+
+Write a response in which you examine the stated and/or unstated assumptions of the argument. Be sure to explain how the argument depends on these assumptions and what the implications are for the argument if the assumptions prove unwarranted.
 
 ## Topic History
 
@@ -15,6 +17,6 @@ Write a response in which you discuss the extent to which you agree or disagree 
 | :-------: | :------: | :--------------------------------------: |
 | August 17 | Argument | Recommendation from the president of Amburg's Chamber of Commerce |
 | August 20 |  Issue   | Educational institutions should actively encourage their students to choose fields of study that will prepare them for lucrative careers. |
-|           |          |                                          |
+| August 24 | Argument | Recommendation appeared in a memo from the mayor of the town of Hopewell. |
 |           |          |                                          |
 
