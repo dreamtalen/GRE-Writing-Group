@@ -1,0 +1,11 @@
+Start time: 21:40
+
+Nowadays, more and more people spend their time during their travel on their mobile phones. Some play games with their phones, while more people use social softwares. Mobile phones, as well as other products of the development of technology, take up a lot of time in our lives, so some people argue that the increasing use of technology reduces human interaction. However, I, on the contrary, think that technology promotes the connection among people.
+
+First of all, people in modern society are able to contact others more frequently and conveniently compared with people 100 years ago. In the past, one might wait days for a reply of a message he sent to his friend. More specifically, medieval people could only write letters to get contact with friends who were far away from him. Even in twenty years ago, the most convenient way to contact people away from someone is through telephone, while the extremely high cost makes it not economically applicable if one wants to call someone oversea. In contrast, people now can chat with their friends whenever they want, by emails or social softwares. One will never lose contact with others wherever Internet is available. Moreover, the reply is instant, which means one on longer has to wait for a long time just for a reply. People in the past can only be in touch with those who live near them, but now we can contact people from all over the world easily. It is the technology that creates the convenience.
+
+Secondly, the application of technology actually increases the opportunities, instead of reducing the chances, for human interaction. Besides the convenience, new technologies provide us with much more possibilities to find new friends. Unlike people in the past, who could only make friends with those who live near them, people now can make new friends through various social media, like Facebook. Furthermore, people may retrieve contact with their old friends with whom they once lost contact. This can be realized only be modern technology.
+
+All in all, the increasing use of more and more advanced technology can make human interaction more convenient and effective and enlarge our social groups in the meantime. 
+
+End time: 22:20
