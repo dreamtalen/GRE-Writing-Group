@@ -1,0 +1,15 @@
+Start time: 19:30
+
+Topic:"Throughout the country last year, as more and more children below the age of nine participated in youth-league softball and soccer, over 80,000 of these young players suffered injuries. When interviewed for a recent study, youth-league softball players in several major cities also reported psychological pressure from coaches and parents to win games. Furthermore, education experts say that long practice sessions for these sports take away time that could be used for academic activities. Since the disadvantages apparently outweigh any advantages, we in Parkville should discontinue organized athletic competition for children under nine."
+
+When people play soccer, it is likely that they will get hurt, and practicing takes up a lot of time. The editor cares about children's physical and mental health, which leads to his argument that Parkville should stop holding organized athletic competition for children under nine. However, I think the reasons that support the argument is not firm.
+
+First of all, the editor mentions that over 80000 young players under nine suffered injuries in youth-league football and soccer, so he thinks that such sport will harm children's physical health. Nevertheless, this cannot back up his argument. We don't know how many children in total there are in the youth-league, since the number of children under nine in the league throughout the country may be very large. If the number is 8000000, for example, which is a reasonable assumption for a country, then the injury rate is considerably low and thus acceptable. Furthermore, the editor doesn't mention how serious an injury is. For instance, if both twisting ankle and a little bruise are counted into the 80000 injuries, only the number is not enough to support the argument. The editor should provide more details about the injury and the total number of children in the league.
+
+Secondly, the evidence that the editor raises about the recent study also has some problems. He doesn't provide the number of children that complain about the pressure here. Just mentioning that there are complaints is unconvincing. If the complaints only come from only a few teams in a city, that is understandable because where there is competittion, there is pressure. Furthermore, if the pressure is only put on the leading players, the argument is then more unconvincing. To reinforce the argument, the editor should show the number of complaints and where they come from.
+
+Finally, the editor shows his concern about whether the long-time practice will influence children's acadamic performance, which is supported by educational experts. However, how the experts draw such conclusion, even the experts' name or any details about their experiment, is not mentioned here. What's more, it also lacks the definition of a long-time practice. The editor should give more details about the research to support his argument.
+
+All in all, caring about and concerning children's health is right, but the editor's argument has some drawbacks which make it unconvincing.
+
+End time: 20:05
